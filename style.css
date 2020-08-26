@@ -1,0 +1,70 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    box-sizing: border-box;
+    font-family: 'Bangers', cursive;
+}
+#header-nav{
+    background-color: rgb(109, 218, 255);
+}
+#brandiv{
+    height: 80px;
+    text-align: center;
+    margin-top: 22px;
+}
+#brandname{
+    text-decoration: none;
+    font-size: 36px;
+    color: black;
+}
+#collapsable-nav{
+    font-size: 1.3em;
+    clear: both;
+}
+#nav-list{
+    color: black;
+}
+#nav-list a:hover{
+   color: white;
+}
+#anchor{
+    text-align: center;
+}
+#anchorb{
+    text-align: center;
+    margin: 3px 0 3px;
+}
+#line{
+    margin: 0;
+    padding:0;
+}
+#our{
+    text-align: center;
+    margin: 35px 0 45px;
+}
+#box{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightskyblue ;
+    margin-bottom: 35px;
+}
+#content{
+    padding: 0 15px 0;
+}
+#chic{
+    text-align: center;
+    margin:0 0 15px;
+}
+#be{
+    text-align: center;
+    margin:0 0 15px
+}
+#sus{
+    text-align: center;
+    margin:0 0 15px
+}
+/* LARGE DEVICES ONLY */
+@media(min-width: 1200px){
+    
+}
